@@ -19,4 +19,4 @@ jobs:
         with:
           #👇 Chromatic projectToken, see https://storybook.js.org/tutorials/intro-to-storybook/react/en/deploy/ to obtain it
           projectToken: 56da5073f1cf
-          token: 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
+          token: AMINEDAOUMAISCOOL
